@@ -1,0 +1,33 @@
+.addMoodForm {
+    background-color: rgb(141, 0, 0);
+    border: 3px solid rgb(0, 32, 215);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    border-radius: 15px;
+    padding: 5px;
+}
+
+
+
+button {
+    color: black;
+    border-radius: 10px;
+    padding: 15px 32px;
+    margin: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+button:hover {
+    border: 1px solid rgb(0, 32, 215);
+    border-radius: 10px;
+    color: rgb(0,32,215);
+    padding: 15px 32px;
+    margin: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+

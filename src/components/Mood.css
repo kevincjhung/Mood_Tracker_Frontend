@@ -1,0 +1,18 @@
+.editMoodForm {
+    color: white;
+}
+
+.editMoodForm.formDisplay {
+    display: none;
+}
+
+.moodCard {
+    background-color: rgb(50,50,50);
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding: 1%;
+    border-radius: 15px;
+}
